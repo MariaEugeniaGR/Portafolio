@@ -7,10 +7,13 @@
     margin: 0.9em;
 }
 #logoAP{ 
-    width: 200px
+    width: 140px;
+}
+#logosInti{ 
+    width: 190px;
 }
  img{  
-        width: 50px;
+        width: 30px;
 }   
 .btn{ 
     border-width: medium;
